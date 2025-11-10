@@ -5,7 +5,7 @@ if len(sys.argv) !=3:
   rollno = sys.argv[2]
 else:
   script_name = sys.argv[0]
-  name = "sameer"
+  name = "sayed"
   rollno = "067"
   print("No input given - using default values:")
 
